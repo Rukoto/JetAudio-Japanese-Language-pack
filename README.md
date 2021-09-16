@@ -10,11 +10,11 @@ Codec Guide 様の [K-Lite Codec Pack](http://www.codecguide.com/) Basic の導�
 (小生は JetAudio から MPC-HC に移行したため、Standard をインストールしていますが)  
 自分用 KLCP(Standard) のインストール・初期設定メモ画像も UP しますので参考まで。  
 
-KLCP メモ: [KLCP.zip](https://github.com/Rukoto/JetAudio-Japanese-Language-pack/raw/master/releases/KLCP.zip)
+KLCP メモ: [KLCP.zip](https://github.com/Rukoto/JetAudio-Japanese-Language-pack/raw/master/KLCP.zip)
 
 
 お気に入りのスキンの 122c 配布元を完全に見失った。ご存じの方ご連絡を。  
-スキン 122c: [122c.jsk](https://github.com/Rukoto/JetAudio-Japanese-Language-pack/raw/master/releases/Skin/122c.jsk)
+スキン 122c: [122c.jsk](https://github.com/Rukoto/JetAudio-Japanese-Language-pack/raw/master/Skin/122c.jsk)
 
 ![122c](/122c.png)
 
